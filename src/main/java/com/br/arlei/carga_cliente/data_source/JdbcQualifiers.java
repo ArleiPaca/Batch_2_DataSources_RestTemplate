@@ -1,4 +1,4 @@
-package com.br.arlei.carga_cliente.data_souce;
+package com.br.arlei.carga_cliente.data_source;
 
 public final class JdbcQualifiers {
     public static final String MYSQL_JDBC_CLIENT = "mysqlJdbcClient";
